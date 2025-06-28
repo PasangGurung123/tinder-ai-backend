@@ -1,2 +1,2 @@
 # tinder-ai-backend
-Backend for Tinder AI app
+Backend for Tinder AI Application
